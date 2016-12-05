@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGet4BuildTest", "NuGet4BuildTest\NuGet4BuildTest.csproj", "{D3E474E2-F34F-4527-AB22-C14ECA43396E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTest", "LibTest\LibTest.csproj", "{DCB47258-989B-449C-9074-D479242A62A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreConsoleTest", "NetCoreConsoleTest\NetCoreConsoleTest.csproj", "{83532B0E-F8A1-487B-B437-48D5B8E97C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectJsonLibTest", "ProjectJsonLibTest\ProjectJsonLibTest.csproj", "{1BA47C76-2DE2-46EA-9C14-083D648E9774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E474E2-F34F-4527-AB22-C14ECA43396E}.Debug|x86.ActiveCfg = Debug|x86
+		{D3E474E2-F34F-4527-AB22-C14ECA43396E}.Debug|x86.Build.0 = Debug|x86
+		{D3E474E2-F34F-4527-AB22-C14ECA43396E}.Release|x86.ActiveCfg = Release|x86
+		{D3E474E2-F34F-4527-AB22-C14ECA43396E}.Release|x86.Build.0 = Release|x86
+		{DCB47258-989B-449C-9074-D479242A62A3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DCB47258-989B-449C-9074-D479242A62A3}.Debug|x86.Build.0 = Debug|Any CPU
+		{DCB47258-989B-449C-9074-D479242A62A3}.Release|x86.ActiveCfg = Release|Any CPU
+		{DCB47258-989B-449C-9074-D479242A62A3}.Release|x86.Build.0 = Release|Any CPU
+		{83532B0E-F8A1-487B-B437-48D5B8E97C40}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{83532B0E-F8A1-487B-B437-48D5B8E97C40}.Debug|x86.Build.0 = Debug|Any CPU
+		{83532B0E-F8A1-487B-B437-48D5B8E97C40}.Release|x86.ActiveCfg = Release|Any CPU
+		{83532B0E-F8A1-487B-B437-48D5B8E97C40}.Release|x86.Build.0 = Release|Any CPU
+		{1BA47C76-2DE2-46EA-9C14-083D648E9774}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1BA47C76-2DE2-46EA-9C14-083D648E9774}.Debug|x86.Build.0 = Debug|Any CPU
+		{1BA47C76-2DE2-46EA-9C14-083D648E9774}.Release|x86.ActiveCfg = Release|Any CPU
+		{1BA47C76-2DE2-46EA-9C14-083D648E9774}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
